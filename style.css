@@ -1,0 +1,25 @@
+div{
+    width: 1350px;
+    height: 1000px;
+    margin: 0 auto;
+    position:absolute;
+    float: left;
+    background-image:linear-gradient(to right top, rgb(245, 65, 95)40%,pink);
+}
+
+.satu{
+    background-image:radial-gradient(circle at bottom,white 20%,blue);
+    width:800px;
+    height: 400px;
+    position: relative;
+    left: 400px;
+}
+.dua{
+    width: 800px;
+    height: 200px;
+    position: relative;
+    left: 400px;
+    top:30px;
+    right:100px;
+    background-image: linear-gradient(to left,white, blue, white);
+}
